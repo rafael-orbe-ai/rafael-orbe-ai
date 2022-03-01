@@ -4,6 +4,7 @@
 -->
 
 ### 👋 Rafa 
+- Professor e empreendedor de inteligência artificial no Brasil.
 - 🔭 Trabalho, ensino e aprendo na Orbe.ai.
 - 🌱 No momento estou aprendendo: (aprendendo a aprender), ciência de dados, inteligência artificial (IA), IoT, meditação.
 - 👯 No momento procuro colaborar: em projetos que ajudem na alfabetização de dados e desenvolvimento de projetos de impacto usando IA.
